@@ -8,9 +8,10 @@ import com.molbase.model.system.User;
 import com.molbase.service.system.IUserService;
 
 /**
- *
- * User 表数据服务层接口实现类
- *
+ * 
+ * @date 2017年1月20日 下午5:37:01
+ * @author lanlong.li
+ * @desc
  */
 @Service
 public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IUserService {

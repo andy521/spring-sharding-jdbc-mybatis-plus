@@ -7,6 +7,12 @@ import com.dangdang.ddframe.rdb.sharding.api.ShardingValue;
 import com.dangdang.ddframe.rdb.sharding.api.strategy.database.SingleKeyDatabaseShardingAlgorithm;
 import com.google.common.collect.Range;
 
+/**
+ * 
+ * @date 2017年1月20日 下午5:34:12
+ * @author lanlong.li
+ * @desc
+ */
 public class SingleKeyModuloDatabaseShardingAlgorithm implements
 		SingleKeyDatabaseShardingAlgorithm<Integer> {
 

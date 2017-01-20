@@ -3,11 +3,10 @@ package com.molbase.controller;
 import com.molbase.common.result.JsonResult;
 
 /**
- * Author: D.Yang
- * Email: koyangslash@gmail.com
- * Date: 16/10/9
- * Time: 下午1:37
- * Describe: 基础控制器
+ * 
+ * @date 2017年1月20日 下午5:34:51
+ * @author lanlong.li
+ * @desc
  */
 public class BaseController {
     /**

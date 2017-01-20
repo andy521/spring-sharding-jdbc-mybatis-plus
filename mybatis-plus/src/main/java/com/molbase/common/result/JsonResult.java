@@ -1,11 +1,10 @@
 package com.molbase.common.result;
 
 /**
- * Author: D.Yang
- * Email: koyangslash@gmail.com
- * Date: 16/8/31
- * Time: 下午5:50
- * Describe: 封装Json返回信息
+ * 
+ * @date 2017年1月20日 下午5:34:27
+ * @author lanlong.li
+ * @desc
  */
 public class JsonResult {
     private boolean success;

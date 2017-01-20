@@ -10,6 +10,12 @@ import org.springframework.web.servlet.ModelAndView;
 import com.molbase.model.order.Order;
 import com.molbase.service.order.IOrderService;
 
+/**
+ * 
+ * @date 2017年1月20日 下午5:35:00
+ * @author lanlong.li
+ * @desc
+ */
 @Controller
 @RequestMapping("/order")
 public class OrderController extends BaseController {

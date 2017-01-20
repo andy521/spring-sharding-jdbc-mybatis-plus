@@ -4,9 +4,10 @@ import com.baomidou.mybatisplus.service.IService;
 import com.molbase.model.system.User;
 
 /**
- *
- * User 表数据服务层接口
- *
+ * 
+ * @date 2017年1月20日 下午5:36:41
+ * @author lanlong.li
+ * @desc
  */
 public interface IUserService extends IService<User> {
 

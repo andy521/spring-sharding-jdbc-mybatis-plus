@@ -1,11 +1,10 @@
 package com.molbase.common.utils;
 
 /**
- * Author: D.Yang
- * Email: koyangslash@gmail.com
- * Date: 16/8/31
- * Time: 下午5:42
- * Describe: String工具类
+ * 
+ * @date 2017年1月20日 下午5:34:41
+ * @author lanlong.li
+ * @desc
  */
 public class StringUtil {
 

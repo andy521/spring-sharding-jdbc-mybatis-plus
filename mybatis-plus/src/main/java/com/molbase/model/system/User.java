@@ -5,9 +5,10 @@ import java.io.Serializable;
 import com.baomidou.mybatisplus.annotations.TableName;
 
 /**
- *
- * 系统用户表
- *
+ * 
+ * @date 2017年1月20日 下午5:35:39
+ * @author lanlong.li
+ * @desc
  */
 @TableName("sys_user")
 public class User implements Serializable {
